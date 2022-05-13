@@ -2,6 +2,6 @@
 
 ### Estou aprendendo:
 
-- Html
-- Css
-- JavaScript
+- Html ☠️
+- Css 🎨
+- JavaScript 🕹️
